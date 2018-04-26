@@ -1,0 +1,54 @@
+# main text of home
+name: Jeffects
+bio: Engineering Manager | Technical Lead | Traveler
+
+# twitter summary info
+description: A blog about leadership and technology
+
+external-image: false
+picture: assets/images/profile.jpg
+img_megrad: assets/images/megrad.jpg
+
+resume: true
+resume-external: true
+resume-url: https://www.linkedin.com/in/jeffects/
+
+url: https://jeffects.github.io
+
+permalink: /:title/
+
+analytics-google: 'UA-42115533-2'
+
+twitter: jeffects01
+linkedin: jeffects
+github: jeffects
+width: normal
+
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+projects: true
+about: true
+blog: true
+
+read-time: true
+
+show-tags: true
+
+related: true
+
+post-advance-links: [blog]
+
+show-author: true
+
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+
+jekyll-mentions:
+    base_url: https://github.com
