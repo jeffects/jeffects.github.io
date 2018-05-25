@@ -1,6 +1,6 @@
 # main text of home
 name: Jeffects
-bio: Engineering Manager | Technical Lead | Traveler
+bio: Engineer | Manager | Entrepreneur
 
 # twitter summary info
 description: A blog about leadership and technology
@@ -23,6 +23,14 @@ twitter: jeffects01
 linkedin: jeffects
 github: jeffects
 width: normal
+
+authors:
+  Jeffects:
+    name: Jeff
+    bio: 'Engineer | Manager | Entrepreneur'
+    external-image: false
+    picture: assets/images/profile.jpg
+    twitter: jeffects01
 
 # paginate: 5
 # paginate_path: "blog/:num/"

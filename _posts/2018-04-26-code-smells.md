@@ -9,6 +9,7 @@ tag:
 - refactoring
 category: blog
 description: First post
+author: Jeffects
 ---
 
 # Code Smells
