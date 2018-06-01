@@ -72,12 +72,12 @@ These smells mean that if you need to change something in one place in your code
 A dispensable is something pointless and unneeded whose absence would make the code cleaner, more efficient and easier to understand.
 
 
-* ** Lazy Class** (RR81)
+* **Lazy Class** (RR81)
   * A class that is no longer valid or has any useful functionality but is still
     in the codebase
 * **Speculative Generality** (RR81)
   * Speculative code that is created to anticipate the future but never used
-* **Data Class **(RR84)
+* **Data Class** (RR84)
   * Class that only contains fields and simple methods accessing them
 * **Duplicated Code** (RR74)
   * Identical code
